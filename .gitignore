@@ -1,0 +1,11 @@
+# Claude Code
+.claude/
+*.jsonl
+backups/
+debug/
+file-history/
+ide/
+paste-cache/
+projects/
+session-env/
+shell-snapshots/
